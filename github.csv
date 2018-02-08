@@ -1,0 +1,162 @@
+Framework	Stars	Forks	Comment
+activeweb	28	7
+aspnet	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-mvc-mono	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-mysql-entityf	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-mysql-raw	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-postgresql-en	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-postgresql-ra	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-stripped	251	135	ASP-NET-MVC/aspnetwebstack
+aspnet-stripped-raw	251	135	ASP-NET-MVC/aspnetwebstack
+beego	2909	722
+bottle	2471	470
+bottle-mysql-raw	2471	470
+bottle-nginx-uwsgi	2471	470
+bottle-py3	2471	470
+bottle-pypy	2471	470
+cake	5091	2195	cakephp/cakephp
+codeigniter	8072	4162
+codeigniter-raw	8071	4160
+compojure	2184	159	weavejester/compojure
+compojure-raw	2184	159	weavejester/compojure
+cowboy	1653	456	ninenines/cowboy
+cpoll_cppsp	0	0	unknown
+cpoll_cppsp-postgres	0	0	unknown
+cpoll_cppsp-raw	0	0	unknown
+dancer	692	231
+dancer-raw	692	231
+dart	1079	226
+django	11021	4279
+django-postgresql	11021	4279
+django-py3	11021	4279
+dropwizard	2281	926
+elli	401	62
+evhttp-sharp	59	8
+express	15418	3138	strongloop/express
+express-mongodb	15418	3138	strongloop/express
+express-mysql	15418	3138	strongloop/express
+falcon	783	100
+falcon-py3	783	100
+falcon-pypy	783	100
+falcore	397	34
+finagle	2793	483
+flask	10699	2846
+flask-nginx-uwsgi	10699	2846
+flask-py3	10699	2846
+flask-pypy	10699	2846
+fuel	1349	253
+gemini	0	0	techempower.com
+go	4126	1677	astaxie/build-web-application-with-golang
+grails	1054	540
+grizzly	14	8	apache mirror
+grizzly-jersey	564	668	apache mirror
+hapi	2971	346
+hapi-mysql	2971	346
+hhvm	9646	1630
+http-kit	923	103
+http-listener	0	0	unknown
+jester	113	8	dom96/jester written in Nimrod
+jetty-servlet	339	217
+kelp	46	11
+kelp-raw	46	11
+lapis	615	60
+laravel	11595	3750
+laravel-raw	11595	3750
+lift-stateless	808	197	lift/framework
+lithium	928	236
+luminus	0	0	unknown
+luminus-raw	0	0	unknown
+micromvc	577	124
+mojolicious	1315	292	kraih/mojo
+mojolicious-raw	1315	292	kraih/mojo
+nancy	2351	620
+nancy-libevent2	2351	620
+nawak	15	2	idlewan/nawak in Nimrod
+netty	3459	1607
+ninja-standalone	464	150
+nodejs	31658	7068
+nodejs-mongodb	31658	7068
+nodejs-mongodb-raw	31658	7068
+nodejs-mysql	31658	7068
+nodejs-mysql-raw	31658	7068
+onion	705	61
+onion-raw	705	61
+openresty	672	103
+php	4644	1590	php/php-src
+php-kohana	1399	353
+php-kohana-raw	1399	353
+php-phalcon	342	194	phalcon/phalcon-devtools
+php-phalcon-micro	342	194	phalcon/phalcon-devtools
+php-raw	4644	1590	php/php-src
+phpixie	228	51
+phreeze	245	85
+plack	381	138
+plain	0	0	generic
+plain-servlet-linux	0	0	generic
+plain-windows	0	0	unknown
+play-activate-mysql	5165	1910	playframework/playframework
+play-java-ebean	5165	1910	playframework/playframework
+play-java-jpa	5165	1910	playframework/playframework
+play-scala-anorm	5165	1910	playframework/playframework
+play-slick	357	115	playframework/play-slick
+play1	1493	559	playframework/play1
+play1-siena	49	15	mandubian/play-siena
+pyramid-py2	1445	511
+pyramid-py3	1445	4279
+rack-jruby	1980	773
+rack-ruby	1980	773
+racket-ws	705	194
+rails-jruby	23065	8707
+rails-ruby	23065	8707
+rails-stripped-jruby	23065	8707
+rails-stripped-ruby	23065	8707
+restexpress	312	112	restexpress/restexpress
+restexpress-mongodb	312	112	restexpress/restexpress
+restexpress-mysql-ra	312	112	restexpress/restexpress
+revel	3979	588
+revel-qbs	3979	588
+ringojs	452	77
+ringojs-conv	452	77
+scalatra	1435	203
+scalatra-raw	1435	203
+servicestack	2476	943
+servicestack-nginx-d	2476	943
+servlet	0	0	generic
+servlet-postgres-raw	0	0	generic
+servlet-raw	0	0	generic
+silex	2288	503
+silex-orm	2288	503
+sinatra-jruby	6202	1080	sinatra/sinatra
+sinatra-ruby	6202	1080	sinatra/sinatra
+slim	3939	674
+snap	224	40	snapframework/snap
+spark	1332	270	perwendel/spark
+spring	4028	3223	spring-projects/spring-framework
+start	299	36	lvivski/start
+stream	84	19	rikulo/stream
+symfony2	8854	3409
+symfony2-php-templat	8854	3409
+symfony2-raw	8854	3409
+tapestry	63	28	apache mirror
+tornado	7688	2129
+tornado-py3	7688	2129
+tornado-pypy	7688	2129
+treefrog	131	31
+treefrog-thread	131	31
+undertow	439	154
+undertow edge	439	154
+unfiltered	551	100
+ur/web	13	0	urweb/urweb
+urweb-mysql	13	0	urweb/urweb
+urweb-postgres	13	0	urweb/urweb
+uwsgi	790	156
+uwsgi-nginx-uwsgi	790	156
+wai	193	74	yesodweb/wai
+web-simple	189	55
+web-simple-raw	189	55
+webgo	0	0	unknown
+wicket	219	118	apache mirror
+wsgi	0	0	generic
+wsgi-nginx-uwsgi	790	156
+yaf-raw	1092	493
+yesod	922	172	yesodweb/yesod
